@@ -44,6 +44,7 @@
    <h1>Certificate</h1>
 
    <li>Testowanie manualne aplikacji (Ifs&wWhiles)</li>
+   <li>Paktyczny kurs testowania oprogramowania (UDEMY)</li>
  
    
   </body> 
