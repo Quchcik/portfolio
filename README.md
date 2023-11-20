@@ -37,7 +37,7 @@
    <li>Creativity</li>
    <li>Perfect Interpersonal Skills</li>
    <li>Analytical thinking Ability</li>
-   <li>Ability to work under time pressure></li>
+   <li>Ability to work under time pressure</li>
    <li>Ability to work in a team</li>
    <li>Patience and accuracy</li>
 
