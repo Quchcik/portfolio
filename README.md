@@ -5,10 +5,10 @@
  
 <i> Marcin Kucharski</I> 
   <body>
-    <h2>About Me</h2>
+    <h2>About Me 🌝</h2>
     <p>Hello, my name is Marcin Kucharski, I am a <b>junior manual tester</b>. Every day I try to deepen my knowledge of testing. I am a communicative person, curious about new things and a quick learner. I took part in several courses and webinars regarding testing. <b>I tested the applications frontend</b>,<b> backhend and database</b>. I constantly set myself new goals and try to achieve them to become a better and better tester. My immediate goal is to learn the programming language <b>Python</b></p>
 
-   <h1>Experience</h1>
+   <h1>Experience🧪</h1>
    <li>Testing Web Application</li>
    <li>Reporting bugs</li>
    <li>creating test cases</li>
