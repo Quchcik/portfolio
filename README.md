@@ -3,7 +3,7 @@
  <h1>PORTFOLIO 📖</h1>
   <h3>Junior Manual Software Tester</h3>
  
-<i> Marcin Kucharski </I> 
+<i> Marcin Kucharski </I>
   <body>
     <h2>About Me 🌝</h2>
     <p>Hello, my name is Marcin Kucharski, I am a <b>junior manual tester</b>. Every day I try to deepen my knowledge of testing. I am a communicative person, curious about new things and a quick learner. I took part in several courses and webinars regarding testing. <b>I tested the applications frontend</b>,<b> backhend and database</b>. I constantly set myself new goals and try to achieve them to become a better and better tester. My immediate goal is to learn the programming language <b>Python</b></p>
