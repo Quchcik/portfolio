@@ -70,7 +70,7 @@
 
    ✔️[Testowanie manualne aplikacji (Ifs&wWhiles)](https://drive.google.com/file/d/1X5BCuQFFJ3sa16P5GtDIQe73cP9jjSAA/view?usp=drive_link)
    
-   ✔️Paktyczny kurs testowania oprogramowania (UDEMY)
+   ✔️[Paktyczny kurs testowania oprogramowania (UDEMY)](https://drive.google.com/file/d/18-KkGmjVAnriteQYP0zch1mt-Qq1sf_n/view?usp=drive_link)
  
 
   </body> 
