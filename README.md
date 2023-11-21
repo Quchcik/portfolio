@@ -1,7 +1,7 @@
 <html>
 <header>
  <h1>PORTFOLIO 📖</h1>
-  <h3> Manual Software Tester</h3>
+  <h3>Junior Manual Software Tester</h3>
  
 <i> Marcin Kucharski </I> 
   <body>
