@@ -48,6 +48,6 @@
    <li>Testowanie manualne aplikacji (Ifs&wWhiles)</li>
    <li>Paktyczny kurs testowania oprogramowania (UDEMY)</li>
  
-   
+
   </body> 
 </html>
