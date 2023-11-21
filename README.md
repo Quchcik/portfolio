@@ -15,7 +15,7 @@
    <li>Testing API</li>
    <li>working with database</li>
 
-   <h1>Tech Skills</h1>
+   <h1>Tech Skills👨‍💻</h1>
 
    <li>SQL</li>
    <li>Rest Api</li>
@@ -23,7 +23,7 @@
    <li>Creating Bug reports</li>
    <li>Creating Test Cases</li>
 
-   <h1>Tools</h1>
+   <h1>Tools📑</h1>
 
    <li>Postman,Swagger</li>
    <li>Trello,Jira</li>
@@ -43,7 +43,7 @@
    <li>Ability to work in a team</li>
    <li>Patience and accuracy</li>
 
-   <h1>Certificate</h1>
+   <h1>Certificate🥇</h1>
 
    <li>Testowanie manualne aplikacji (Ifs&wWhiles)</li>
    <li>Paktyczny kurs testowania oprogramowania (UDEMY)</li>
