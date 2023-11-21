@@ -68,7 +68,7 @@
 
    <h1>Certificate🥇</h1>
 
-   ✔️Testowanie manualne aplikacji (Ifs&wWhiles)
+   ✔️[Testowanie manualne aplikacji (Ifs&wWhiles)](https://drive.google.com/file/d/1X5BCuQFFJ3sa16P5GtDIQe73cP9jjSAA/view?usp=drive_link)
    
    ✔️Paktyczny kurs testowania oprogramowania (UDEMY)
  
