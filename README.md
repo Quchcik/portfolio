@@ -6,6 +6,8 @@
 <i> Marcin Kucharski </I>
   <body>
 
+ <h2>CONTENTS</h2>
+
  ➡️ [About me](#aboutme)
 
  ➡️ [Experience](#experience)
