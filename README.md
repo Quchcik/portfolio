@@ -89,5 +89,7 @@
    ✔️[Paktyczny kurs testowania oprogramowania (UDEMY)](https://drive.google.com/file/d/18-KkGmjVAnriteQYP0zch1mt-Qq1sf_n/view?usp=drive_link)
  
  <h1><a name="bugsreport">Bugs Report</h1>
+
+  🐛 [BUG 1](https://drive.google.com/file/d/1ACrzsOodZR8_P4kVZGHOlcMvyh72h9QH/view?usp=sharing)
   </body> 
 </html>
