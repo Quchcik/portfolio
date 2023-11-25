@@ -19,6 +19,8 @@
  ➡️ [Soft Skills](#softskills)
 
  ➡️ [Certificate](#certificate)
+
+ ➡️[Bugs Report](#bugsreport) 
     <h2><a name="aboutme">About Me 🌝</a></h2>
     <p>Hello, my name is Marcin Kucharski, I am a <b>junior manual tester</b>. Every day I try to deepen my knowledge of testing. I am a communicative person, curious about new things and a quick learner. I took part in several courses and webinars regarding testing. <b>I tested the applications frontend</b>,<b> backhend and database</b>. I constantly set myself new goals and try to achieve them to become a better and better tester. My immediate goal is to learn the programming language <b>Python</b></p>
 
@@ -83,9 +85,9 @@
    <h1><a name="certificate">Certificate🥇</a></h1>
 
    ✔️[Testowanie manualne aplikacji (Ifs&wWhiles)](https://drive.google.com/file/d/1X5BCuQFFJ3sa16P5GtDIQe73cP9jjSAA/view?usp=drive_link)
-   
+
    ✔️[Paktyczny kurs testowania oprogramowania (UDEMY)](https://drive.google.com/file/d/18-KkGmjVAnriteQYP0zch1mt-Qq1sf_n/view?usp=drive_link)
  
-
+ <h1><a name="bugsreport">Bugs Report</h1>
   </body> 
 </html>
