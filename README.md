@@ -88,8 +88,16 @@
 
    ✔️[Paktyczny kurs testowania oprogramowania (UDEMY)](https://drive.google.com/file/d/18-KkGmjVAnriteQYP0zch1mt-Qq1sf_n/view?usp=drive_link)
  
- <h1><a name="bugsreport">Bugs Report</h1>
+ <h1><a name="bugsreport">Bugs Report 🐛</h1>
 
-  🐛 [BUG 1](https://drive.google.com/file/d/1ACrzsOodZR8_P4kVZGHOlcMvyh72h9QH/view?usp=sharing)
+  ▶️ [BUG 1](https://drive.google.com/file/d/1ACrzsOodZR8_P4kVZGHOlcMvyh72h9QH/view?usp=sharing)
+
+  ▶️ [BUG 2](https://drive.google.com/file/d/1-d3uEP20xQDUWlACLxGW7TfjFIZPBXio/view?usp=sharing)
+
+  ▶️ [BUG 3](https://drive.google.com/file/d/1oridkNX3pf9cG2mvdposL2MJRa_9v2Qp/view?usp=sharing)
+
+  ▶️ [BUG 4](https://drive.google.com/file/d/1Nrr_ZinKYmsPtnu68xRzxGYDpTT1SgFr/view?usp=sharing)
+
+  ▶️ [BUG 5](https://drive.google.com/file/d/19yqM6HbBt5oRCn-o4pBlzXT3HlZKlLt2/view?usp=sharing)
   </body> 
 </html>
